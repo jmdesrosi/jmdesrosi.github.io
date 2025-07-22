@@ -23,11 +23,12 @@ author: J. M. Desrosiers
 email: jmdesrosi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my portfolio! I will be posting cool things that I do here, to showcase my skills and projects! I hope you enjoy what you see!
-baseurl: "/jmdesrosi.github.io/" # the subpath of your site, e.g. /blog
-url: "https://jmdesrosi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://jmdesrosi.github.io/jmdesrosi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jmdesrosi
 
 # Build settings
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
