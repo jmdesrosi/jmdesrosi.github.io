@@ -24,8 +24,21 @@ email: jmdesrosi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my portfolio! I will be posting cool things that I do here, to showcase my skills and projects! I hope you enjoy what you see!
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://jmdesrosi.github.io/jmdesrosi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jmdesrosi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jmdesrosi
+linkedIn_username: Jeremy Desrosiers
+linkedIn_URL: www.linkedin.com/in/jeremy-desrosiers-5b3bb31a1
+bluesky_username: jmdesrosi
+bluesky_URL: https://bsky.app/profile/jmdesrosi.bsky.social
+header_pages:
+  - about.markdown
+  - contact.markdown
+
+collections:
+  blog:
+    output: true
+  projects:
+    output: true
 
 # Build settings
 markdown: kramdown

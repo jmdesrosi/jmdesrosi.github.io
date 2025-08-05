@@ -2,7 +2,7 @@
 layout: post
 title:  "InnKeeper - A dungeon Master's AI Improv tool."
 date:   2025-07-22 12:42:36 +0100
-categories: jekyll update
+categories: projects
 ---
 
 I have been collaborating with Steve Poole to create some demos for his Reflex Framework

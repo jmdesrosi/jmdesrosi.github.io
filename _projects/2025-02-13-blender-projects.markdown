@@ -2,7 +2,7 @@
 layout: post
 title:  "Blender Projects"
 date:   2025-02-13 12:30:00 +0000
-categories: 3D Modelling
+categories: Projects
 sticky: false
 ---
 Welcome to my Blender page!

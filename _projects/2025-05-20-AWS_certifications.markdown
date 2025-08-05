@@ -2,7 +2,7 @@
 layout: post
 title:  "Qualifications & Certifications"
 date:   2025-02-13 12:30:00 +0000
-categories: Qualifications Certifications
+categories: Qualifications
 sticky: false
 ---
 Welcome to my Qualifications & Certifications!
