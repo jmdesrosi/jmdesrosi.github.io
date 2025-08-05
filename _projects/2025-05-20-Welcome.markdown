@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome!"
 date:   2025-02-12 18:01:25 +0000
-categories: welcome
+categories: projects
 sticky: true
 ---
 Welcome to my Portfolio! I will be posting projects I'm working on, along with anything else I choose to use to demonstrate my skills!
